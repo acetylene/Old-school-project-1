@@ -1,0 +1,7 @@
+*.jpeg
+*.pdf
+**/build
+**/.Rproj.user
+**/tex2pdf*
+.Rhistory
+*.bak
